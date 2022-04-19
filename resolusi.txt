@@ -1,4 +1,5 @@
 Resolusi
 - Laravel 9
 - Git & GitHub
-- Java Flutter
+- Java Flutter (pedut :v)
+- Rest Api gaskan
